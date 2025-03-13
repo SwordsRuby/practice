@@ -776,6 +776,7 @@ footer {
     top: 40px;
     display: flex;
     gap: 0px;
+    height: 17px;
 }
 
 .burger-active .menu-line {
